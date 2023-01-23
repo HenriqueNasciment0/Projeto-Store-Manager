@@ -8,7 +8,7 @@
 
 <details>
   <summary><strong>👨‍💻 Meu resultado no Projeto 22</strong></summary><br />
-<img src="./public/store-manager.png"/>
+<img src="./22.png"/>
 </details>
 
 ## 🚀 Tecnologias

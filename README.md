@@ -22,7 +22,7 @@
 * _Chai_
 * _Sinon_
 
-### 1 - Clone o repositório
+### Clone o repositório
 ```
 git clone git@github.com:HenriqueNasciment0/Projeto-Store-Manager-API-NodeJS.git
 ```

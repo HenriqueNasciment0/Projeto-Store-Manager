@@ -22,23 +22,28 @@
 * _Chai_
 * _Sinon_
 
-Instale as dependências:
+### 1 - Clone o repositório
+```
+git clone git@github.com:HenriqueNasciment0/Projeto-Store-Manager-API-NodeJS.git
+```
+
+### Instale as dependências:
 ```
 npm install
 ```
 
-Inicie a aplicação e faça as requisições para a porta 3000:
+### Inicie a aplicação e faça as requisições para a porta 3000:
 
 ```
 npm start
 ```
 
-Rode os testes que fiz para cobrir mais de 50% da API com:
+### Rode os testes que fiz para cobrir mais de 50% da API com:
 ```
 npm run test:mocha
 ```
 
-Acesse a documentação da API usando a rota:
+### Acesse a documentação da API usando a rota:
 ```
 /docs
 ```

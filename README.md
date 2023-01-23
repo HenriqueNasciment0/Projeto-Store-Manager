@@ -38,6 +38,11 @@ Rode os testes que fiz para cobrir mais de 50% da API com:
 npm run test:mocha
 ```
 
+Acesse a documentação da API usando a rota:
+```
+/docs
+```
+
 ## 🚀 Habilidades
 
 * Realizar operações assíncronas utilizando callbacks;
